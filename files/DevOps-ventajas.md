@@ -1,4 +1,4 @@
-<h2 style="text-transform: none;">Ventajas del DevOps </h2>
+<h2 style="text-transform: none;">VENTAJAS DEL DevOps </h2>
 
 - Lanzamiento más rápido de funcionalidades.
 - Aplicaciones / sitios web de alta disponibilidad.
