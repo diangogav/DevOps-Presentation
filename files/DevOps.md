@@ -3,5 +3,3 @@
                                                                             background: none;
                                                                             border: 0;
                                                                             box-shadow: none;">
-
-Developers + Operations
