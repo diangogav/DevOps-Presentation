@@ -1,8 +1,5 @@
 ## Integración y Despliegue Continuo
-
 ASP.NET 4.5 + Google Compute Engine
-
-
 <img src="media\svg\docker-official.svg" alt="Docker" style="margin: 15px 0px;
                                                     background: none;
                                                     border: 0;
