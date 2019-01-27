@@ -1,7 +1,10 @@
 ## Integración y Despliegue Continuo
-ASP.NET 4.5 + Google Compute Engine </br>
 
+<div>
+    ASP.NET 4.5 + Google Compute Engine
+</div>
 
+<div>
 <img src="media\svg\docker-official.svg" alt="Docker" style="margin: 15px 0px;
                                                     background: none;
                                                     border: 0;
@@ -14,3 +17,5 @@ ASP.NET 4.5 + Google Compute Engine </br>
                                                     background: none;
                                                     border: 0;
                                                     box-shadow: none;">
+</div>
+
