@@ -7,7 +7,7 @@
 		<title>reveal.js</title>
 
 		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/white.css">
+		<link rel="stylesheet" href="css/theme/white-2.css">
 
 		<!-- Theme used for syntax highlighting of code -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
@@ -31,7 +31,25 @@
 							data-separator-notes="^Note:"
 							data-charset="utf-8">
 				</section>
-				<section 	data-markdown="files/Traditional-Delivery-Process.md"
+				<section 	data-markdown="files/indice.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8">
+				</section>
+				<section 	data-markdown="files/Identificación-Empresa.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8">
+				</section>
+				<section 	data-markdown="files/Planteamiento-Problema.md"
+					data-separator="^\n\n\n"
+					data-separator-vertical="^\n\n"
+					data-separator-notes="^Note:"
+					data-charset="utf-8">
+				</section>
+				<!-- <section 	data-markdown="files/Traditional-Delivery-Process.md"
 							data-separator="^\n\n\n"
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
@@ -42,8 +60,8 @@
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
 							data-charset="utf-8">
-				</section>
-				<section 	data-markdown="files/DevOps.md"
+				</section> -->
+<!-- 				<section 	data-markdown="files/DevOps.md"
 							data-separator="^\n\n\n"
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
@@ -54,8 +72,8 @@
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
 							data-charset="utf-8">
-				</section>
-				<section 	data-markdown="files/Continuous-Integration.md"
+				</section> -->
+				<!-- <section 	data-markdown="files/Continuous-Integration.md"
 							data-separator="^\n\n\n"
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
@@ -90,8 +108,8 @@
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
 							data-charset="utf-8">
-				</section>
-				<section 	data-markdown="files/Continuous-Integration-B4.md"
+				</section> -->
+				<!-- <section 	data-markdown="files/Continuous-Integration-B4.md"
 							data-separator="^\n\n\n"
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
@@ -126,7 +144,28 @@
 							data-separator-vertical="^\n\n"
 							data-separator-notes="^Note:"
 							data-charset="utf-8">
+				</section> -->
+				<!-- <section 	data-markdown="files/Continuous-Deployment.md"
+							data-separator="^\n\n\n"
+							data-separator-vertical="^\n\n"
+							data-separator-notes="^Note:"
+							data-charset="utf-8">
 				</section>
+				<section 	data-markdown="files/Continuous-Deployment-concept.md"
+							data-separator="^\n\n\n"
+							data-separator-vertical="^\n\n"
+							data-separator-notes="^Note:"
+							data-charset="utf-8">
+				</section>
+				<section 	data-markdown="files/Agile-Tests.md"
+							data-separator="^\n\n\n"
+							data-separator-vertical="^\n\n"
+							data-separator-notes="^Note:"
+							data-charset="utf-8">
+				</section> -->
+			</div>
+			<div  class="fe-persistent-header" style="background-image: linear-gradient(to bottom right, #919394, #04BBF9,#05FCC4); height: 80px" >
+				<h1 id="header-title" style="color:white; padding: 20px;">Header</h1>
 			</div>
 		</div>
 
@@ -147,6 +186,19 @@
 					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
 			});
+			Reveal.addEventListener( 'ready', function( event ) {
+
+				var slide = Reveal.getCurrentSlide();
+				document.getElementById("header-title").textContent = slide.getElementsByClassName("title")[0].textContent
+			});
+
+			Reveal.addEventListener( 'slidechanged', function( event ) {
+
+				var slide = Reveal.getCurrentSlide();
+				document.getElementById("header-title").textContent = slide.getElementsByClassName("title")[0].textContent
+			})
+
 		</script>
+
 	</body>
 </html>

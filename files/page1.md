@@ -1,8 +1,6 @@
-## Integración y Despliegue Continuo
+<h1 class="title">Integración y Entrega Continua</h1>
+#### ASP.NET 4.5 + Docker + Google Compute Engine
 
-<div>
-    ASP.NET 4.5 + Google Compute Engine
-</div>
 
 <div>
 <img src="media\svg\docker-official.svg" alt="Docker" style="margin: 15px 0px;
