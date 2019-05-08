@@ -1,7 +1,7 @@
 <h1 class="title" style="display:none">Alcance</h1>
-<h4 style="text-transform: none;"> Diseño General </h4>
+<h4 style="text-transform: none;"> Diseño Del Servidor de Integración </h4>
 
-<img src="media\images\DiseñoGeneral.png" alt="Jenkins" style="margin: 15px 0px;
+<img src="media\images\ServidorDespliegue.png" alt="Jenkins" style="margin: 15px 0px;
                                                                             background: none;
                                                                             border: 0;
                                                                             box-shadow: none;">
