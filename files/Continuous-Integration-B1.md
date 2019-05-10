@@ -1,9 +1,4 @@
-El desarrollador debe escribir código usando
-la práctica de TDD. El código debe ser
-asociado con la prueba unitaria.
+<h1 class="title" style="display:none">Marco Teórico</h1>
+<h4 style="text-transform: none;"> Integración Continua </h4>
 
-<div style="color:green">
-Porque se prueba cada lanzamiento, se puede
-reducir el número de errores que liberamos
-en producción
-</div>
+(Pierluigi, 2018)

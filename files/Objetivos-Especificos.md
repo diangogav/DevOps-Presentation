@@ -6,7 +6,7 @@
 
 <p style="font-size:30px; text-align:justify">•	Desarrollar el ambiente para los procesos de CI y CD.</p>
 
-<p style="font-size:30px; text-align:justify">•	Realizar pruebas usando los procesos CI y CD en el proyecto Sitio Uno System.</p>
+<p style="font-size:30px; text-align:justify">•	Realizar pruebas proyecto Sitio Uno System.</p>
 
-<p style="font-size:30px; text-align:justify">•	Elaborar del manual para la implementación de los procesos de CI y CD en otros proyectos de la empresa.</p>
+<p style="font-size:30px; text-align:justify">•	Elaborar el manual de implementación</p>
 

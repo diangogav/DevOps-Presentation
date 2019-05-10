@@ -1,7 +1,5 @@
-<h1 class="title" style="display:none">Desarrollo</h1>
-
-<p style="margin-top: 20px;
-          font-size: 60%;">Los contenedores y las máquinas virtuales tienen beneficios similares de aislamiento y asignación de recursos</p>
+<h1 class="title" style="display:none">Marco Teórico</h1>
+<h4 style="text-transform: none;"> Docker vs Máquinas Virtuales </h4>
 
 <img src="media\images\virtual-machine.png" alt="Docker" style="margin:     15px 0px;
                                                                             background: none;

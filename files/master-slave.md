@@ -1,8 +1,7 @@
-<h1 class="title" style="display:none">Marco Teórico</h1>
+<h1 class="title" style="display:none">Desarrollo</h1>
+<h4 style="text-transform: none;"> Maestro - Esclavo</h4>
 
-Jenkins es un servidor diseñado para la Integración y Entrega Continua, es gratuito y es de código abierto.
-
-<img src="media\images\Jenkins.png" alt="Docker" style="margin: 15px 0px;
+<img src="media\images\Servidor_Integración.png" alt="Jenkins" style="margin: 15px 0px;
                                                                             background: none;
                                                                             border: 0;
                                                                             box-shadow: none;">
