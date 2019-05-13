@@ -1,2 +1,0 @@
-Es una práctica de Ingeniería de Software usada para desplegar software en un ciclo corto. Esto significa que, con cada avance en el de código, se crea una nueva construcción del software.
-Con las prácticas de CD, se tiene siempre una versión lista para ser usada. 

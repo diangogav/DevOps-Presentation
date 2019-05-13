@@ -1,5 +1,6 @@
-<h2 style="text-transform: none;"> Deficiencias del Proceso Tradicional de Despliegue </h2>
-<img src="media\svg\Deficiencias.svg" alt="Deficiencias del Proceso Tradicional de Despliegue" style="margin: 15px 0px;
+<h1 class="title" style="display:none">Desarrollo</h1>
+
+<img src="media\images\yahoo.png" alt="Jenkins" style="margin: 15px 0px;
                                                                             background: none;
                                                                             border: 0;
                                                                             box-shadow: none;">

@@ -1,6 +1,0 @@
-- Agnóstico al Lenguaje de Programación.
-- Extensible por medio de plugins.
-- Portable.
-- Soporta gran cantidad de SCM.
-- Configuración Maestro-Esclavo.
-- Orientado a código.
