@@ -1,4 +1,4 @@
-<h1 class="title" style="display:none">Desarrollo</h1>
+<h1 class="title" style="display:none">Resultados: Sprint 2</h1>
 <h4 style="text-transform: none;"> Maestro Jenkins </h4>
 
 

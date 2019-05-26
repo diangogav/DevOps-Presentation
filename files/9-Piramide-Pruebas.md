@@ -1,7 +1,6 @@
-<h1 class="title" style="display:none">Marco Metodológico</h1>
-<h4 style="text-transform: none;"> Diseño General </h4>
+<h1 class="title" style="display:none">Planteamiento del Problema</h1>
 
-<img src="media\images\DiseñoGeneral.png" alt="Jenkins" style="margin: 15px 0px;
+<img src="media\images\piramide.png" alt="Proceso Tradicional de Despliegue" style="margin: 15px 0px;
                                                                             background: none;
                                                                             border: 0;
                                                                             box-shadow: none;">
