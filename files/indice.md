@@ -4,4 +4,7 @@
 - ¿Qué es DevOps?
 - Integración Continua.
 - Entrega Continua.
-- Ejemplos de implementación.
+- Docker.
+- Pipelines.
+- Kubernetes.
+- Windows en el mundo de Docker y Kubernetes.
