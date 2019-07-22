@@ -1,3 +1,6 @@
+<h1 class="title" style="display:none">Dockerfile ASP.NET</h1>
+
+
 ```dockerfile
 #msbuild.Dockerfile
 FROM mcr.microsoft.com/windows/servercore:1709
@@ -15,5 +18,15 @@ nuget install MSBuild.Microsoft.VisualStudio.Web.targets -Version 14.0.0.3 ; `
 nuget install WebConfigTransformRunner -Version 1.0.0.1
 
 RUN powershell remove-item C:\inetpub\wwwroot\iisstart.*
+
+
+
+
+
+
+
+
+
+
 
 ```

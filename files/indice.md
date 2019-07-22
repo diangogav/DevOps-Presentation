@@ -1,10 +1,7 @@
-<h1 class="title" style="display:none">Puntos a Tratar</h1>
+<h1 class="title" style="display:none">Puntos a tratar</h1>
 
-- Identificación de la Empresa
-- Planteamiento del Problema
-- Objetivos
-- Marco Teórico
-- Marco Metodológico
-- Resultados
-- Conclusiones
-- Recomendaciones
+- Proceso tradicional de despliegue.
+- ¿Qué es DevOps?
+- Integración Continua.
+- Entrega Continua.
+- Ejemplos de implementación.

@@ -1,4 +1,4 @@
-<h1 class="title" style="display:none">Planteamiento del Problema</h1>
+<h1 class="title" style="display:none">Mal funcionamiento en producción = pérdidas</h1>
 
 <h4 style="text-transform: none;"> Knight Capital Group (2012) </h4>
 <h4 style="text-transform: none;"> 45 minutos de mal funcionamiento en producción </h4>
